@@ -10,3 +10,7 @@ https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 3. neural_networks_tutorial.ipynb, neural_networks_tutorial.py
 
 4. cifar10_tutorial.ipynb, cifar10_tutorial.py
+
+https://pytorch.org/tutorials/beginner/nn_tutorial.html
+
+1. nn_tutorial.ipynb, nn_tutorial.py
